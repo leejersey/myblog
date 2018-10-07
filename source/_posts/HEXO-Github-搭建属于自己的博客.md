@@ -1,7 +1,7 @@
 ---
 title: 'HEXO+Github,搭建属于自己的博客'
 date: 2017-10-17 13:28:11
-tags:
+tags: hexo
 ---
 转：http://baixin.io/2015/08/HEXO%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
 ## 配置环境

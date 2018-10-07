@@ -1,7 +1,7 @@
 ---
 title: 现代javascript参考
 date: 2017-10-19 13:27:42
-tags:
+tags: javascript
 ---
 # 现代 JavaScript 速查
 

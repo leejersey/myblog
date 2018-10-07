@@ -1,7 +1,7 @@
 ---
 title: Mongodb数据库操作
 date: 2017-10-19 17:16:52
-tags:
+tags: mongodb
 ---
 # Mongodb 数据库操作
 

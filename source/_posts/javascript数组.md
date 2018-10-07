@@ -1,7 +1,7 @@
 ---
 title: javascript数组
 date: 2018-10-07 10:42:38
-tags:
+tags: javascript
 ---
 ## 一、concat()
 
