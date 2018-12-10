@@ -8,15 +8,16 @@ tags: javascript
 **Object.prototype.toString.call(value)** 
 1. 判断基本类型： 
 ```javascript 
-`Object.prototype.toString.call(null); //”[object Null]()” 
+Object.prototype.toString.call(null); //”[object Null]()” 
 Object.prototype.toString.call(undefined); //”[object Undefined]()” 
 Object.prototype.toString.call(“abc”); //”[object String]()” 
 Object.prototype.toString.call(123); //”[object Number]()” 
 Object.prototype.toString.call(true); //”[object Boolean]()” 
-``` 
-`2. 判断原生引用类型： 
+```
+2. 判断原生引用类型： 
+
 ```javascript 
-`// 函数类型 
+// 函数类型 
 Function fn(){console.log(“test”);} 
 Object.prototype.toString.call[^1];//”[object Function]()” 
 // 日期类型 
@@ -37,13 +38,14 @@ var person = new Person("Rose", 18);
 Object.prototype.toString.call(arr); //”[object Object]()” 
 // 很明显这种方法不能准确判断person是Person类的实例，而只能用instanceof 操作符来进行判断，如下所示： 
 console.log(person instanceof Person);//输出结果为true 
-``` 
-`3. 判断原生JSON对象： 
-```javascript 
-`var isNativeJSON = window.JSON && Object.prototype.toString.call(JSON); 
-console.log(isNativeJSON);//输出结果为”[object JSON]()”说明JSON是原生的，否则不是； 
-``` 
-`注意：Object.prototype.toString()本身是允许被修改的，而我们目前所讨论的关于Object.prototype.toString()这个方法的应用都是假设toString()方法未被修改为前提的。 
+```
+3. 判断原生JSON对象： 
 
-[^1]:	.
+```javascript 
+var isNativeJSON = window.JSON && Object.prototype.toString.call(JSON); 
+console.log(isNativeJSON);//输出结果为”[object JSON]()”说明JSON是原生的，否则不是； 
+```
+注意：Object.prototype.toString()本身是允许被修改的，而我们目前所讨论的关于Object.prototype.toString()这个方法的应用都是假设toString()方法未被修改为前提的。 
+
+[^1]: .
 
