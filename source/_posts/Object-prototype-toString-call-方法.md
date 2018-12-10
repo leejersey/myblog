@@ -1,7 +1,7 @@
 ---
 title: Object.prototype.toString.call()方法
 date: 2018-12-10 09:35:49
-tags:
+tags: javascript
 ---
 
 使用Object.prototype上的原生toString()方法判断数据类型，使用方法如下： 
