@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetOrder</key>
+		<real>566984289.898224</real>
+	</dict>
+	<key>sheetOrder</key>
+	<string>creationDate</string>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetOrder</key>
+		<dict>
+			<key>0737fd2b6406151bd938eb7aa9f55ea7566f15baacd8fe604e580c6d2b246794</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
