@@ -94,3 +94,6 @@ function compose(...funcs){
 	})
 }
 ```
+
+### 参考
+1. [mdn箭头函数](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
