@@ -1,7 +1,7 @@
 ---
 title: react with typescript
 date: 2019-01-08 17:56:31
-tags: react typescript
+tags: typescript
 ---
 
 ## 编写第一个 TSX 组件
@@ -212,7 +212,7 @@ Promise<T> 是一个泛型类型，T 泛型变量用于确定使用 then 方法�
 
 实例：
 
-```
+```typescript
 interface IResponse<T> {
   message: string,
   result: T,
@@ -264,7 +264,7 @@ interface IProps {
 
 限制 `props.index` 的值只可以是数字 `0`、 `1`、 `2` 。
 
-```
+```typescript
 interface IProps {
  index: 0 | 1 | 2,
 }
