@@ -59,17 +59,21 @@ function test(){
 test("a","b","c"); 
 ```
 `**补充：** 
-将函数的实际参数转换成数组的方法 
-方法一：`var args = Array.prototype.slice.call(arguments);` 
+将函数的实际参数转换成数组的方法 `
+
+方法一：`var args = Array.prototype.slice.call(arguments);`
+
 方法二：`var args = [].slice.call(arguments, 0);` 
+
 方法三： 
+
 ```javascript 
 var args = [](); 
 for (var i = 1; i \< arguments.length; i++) { 
 args.push(arguments[i]()); 
 } 
 ```
-`最后，附个转成数组的通用函数 
+最后，附个转成数组的通用函数 
 ```javascript 
 var toArray = function(s){ 
 try{ 
@@ -84,5 +88,17 @@ try{
     } 
 } 
 ```
-`
+补充：
+
+```js
+[].slice === Array.prototype.slice;
+```
+
+
+
+es6扩展运算符写法
+
+```js
+[...arguments].slice(1)
+```
 

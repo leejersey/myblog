@@ -136,6 +136,16 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
+			<key>javascript数据结构-栈.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>573536027.12617302</real>
+				<key>version</key>
+				<dict>
+					<key>0737fd2b6406151bd938eb7aa9f55ea7566f15baacd8fe604e580c6d2b246794</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
 			<key>javascript数组.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -154,6 +164,16 @@
 				<dict>
 					<key>0737fd2b6406151bd938eb7aa9f55ea7566f15baacd8fe604e580c6d2b246794</key>
 					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>nodejs-fs模块.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>573536027.12617302</real>
+				<key>version</key>
+				<dict>
+					<key>0737fd2b6406151bd938eb7aa9f55ea7566f15baacd8fe604e580c6d2b246794</key>
+					<integer>5</integer>
 				</dict>
 			</dict>
 			<key>react-patterns.md</key>
@@ -216,6 +236,16 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
+			<key>webpack优化总结.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>573536027.12617397</real>
+				<key>version</key>
+				<dict>
+					<key>0737fd2b6406151bd938eb7aa9f55ea7566f15baacd8fe604e580c6d2b246794</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
 			<key>不能使用箭头函数的场景.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -276,6 +306,16 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
+			<key>手写实现promise.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>573536027.12617397</real>
+				<key>version</key>
+				<dict>
+					<key>0737fd2b6406151bd938eb7aa9f55ea7566f15baacd8fe604e580c6d2b246794</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
 			<key>数组去重.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -286,18 +326,34 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
-			<key>无标题.md</key>
+			<key>无标题 - 2.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>569385503.01719701</real>
 				<key>lastModification</key>
-				<real>569385503.01719701</real>
+				<real>573725041.84558904</real>
 				<key>version</key>
 				<dict>
 					<key>0737fd2b6406151bd938eb7aa9f55ea7566f15baacd8fe604e580c6d2b246794</key>
-					<integer>3</integer>
+					<integer>7</integer>
+				</dict>
+			</dict>
+			<key>无标题.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>573536027.12616706</real>
+				<key>version</key>
+				<dict>
+					<key>0737fd2b6406151bd938eb7aa9f55ea7566f15baacd8fe604e580c6d2b246794</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
+			<key>深入理解reduce方法.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>573536027.12617397</real>
+				<key>version</key>
+				<dict>
+					<key>0737fd2b6406151bd938eb7aa9f55ea7566f15baacd8fe604e580c6d2b246794</key>
+					<integer>5</integer>
 				</dict>
 			</dict>
 			<key>漫谈前端性能，突破React应用瓶颈.md</key>
@@ -340,6 +396,16 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
+			<key>用pm2来部署nodejs项目.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>573536027.12617302</real>
+				<key>version</key>
+				<dict>
+					<key>0737fd2b6406151bd938eb7aa9f55ea7566f15baacd8fe604e580c6d2b246794</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
 			<key>盘点-React-16-0-16-5-主要更新及其应用.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -350,12 +416,25 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
+			<key>程序设计原则SOLID.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>573536027.12617397</real>
+				<key>version</key>
+				<dict>
+					<key>0737fd2b6406151bd938eb7aa9f55ea7566f15baacd8fe604e580c6d2b246794</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>566984289.898224</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>无标题 - 2.md</string>
+		</array>
 		<array>
 			<string>无标题.md</string>
 		</array>
@@ -458,6 +537,27 @@
 		<array>
 			<string>react-with-typescript.md</string>
 		</array>
+		<array>
+			<string>用pm2来部署nodejs项目.md</string>
+		</array>
+		<array>
+			<string>nodejs-fs模块.md</string>
+		</array>
+		<array>
+			<string>javascript数据结构-栈.md</string>
+		</array>
+		<array>
+			<string>程序设计原则SOLID.md</string>
+		</array>
+		<array>
+			<string>手写实现promise.md</string>
+		</array>
+		<array>
+			<string>深入理解reduce方法.md</string>
+		</array>
+		<array>
+			<string>webpack优化总结.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>creationDate</string>
@@ -468,7 +568,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>0737fd2b6406151bd938eb7aa9f55ea7566f15baacd8fe604e580c6d2b246794</key>
-			<integer>3</integer>
+			<integer>7</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
