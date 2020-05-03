@@ -1,7 +1,7 @@
 ---
 title: nodejs fs模块
 date: 2019-01-17 11:25:36
-tags: nodes
+tags: node
 ---
 
 ```js
