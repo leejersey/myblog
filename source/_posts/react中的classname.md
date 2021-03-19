@@ -1,7 +1,7 @@
 ---
 title: react中的classname
 date: 2021-03-18 09:44:36
-tags:
+tags: react
 ---
 
 工作中经常会碰到需要给jsx中加多个classname.
